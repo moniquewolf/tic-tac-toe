@@ -1,0 +1,59 @@
+.container{ 
+max-width: 520px;
+margin: 0 auto;
+
+}
+	.squares {
+border: 2px solid gray;
+padding: 20px;
+height: 115px;
+width: 115px;
+display: inline-block;
+
+
+}
+
+#tl {
+
+
+}
+
+#tm {
+
+	
+}
+
+#tr {
+
+	
+}
+
+#ml {
+
+	
+}
+
+#mm {
+
+	
+}
+
+#mr {
+
+	
+}
+
+#bl {
+
+	
+}
+
+#bm {
+
+	
+}
+
+#br {
+
+	
+}
